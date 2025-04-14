@@ -4,7 +4,7 @@ This repository summarizes a confidential project developed as part of the **Bus
 We built a robust pipeline to forecast **monthly sales** across multiple product groups using **machine learning techniques** and **domain-specific features**.
 
 > Due to company data sensitivity, the full code and dataset are not shared publicly.  
-> If you'd like to know more, feel free to reach out on [LinkedIn](www.linkedin.com/in/elcanogaspar).
+> If you'd like to know more, feel free to reach out on [LinkedIn] https://www.linkedin.com/in/elcanogaspar/
 
 ---
 
